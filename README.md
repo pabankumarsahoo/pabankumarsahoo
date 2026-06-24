@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B2447,40:19376D,70:576CBC,100:A5D7E8&height=260&section=header&text=Rashmi%20Ranjan%20Behera&fontSize=46&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=AI%20Engineering%20%7C%20Robotics%20%7C%20Cyber%20Security&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B2447,40:19376D,70:576CBC,100:A5D7E8&height=260&section=header&text=Paban%20Kumar%20Sahoo&fontSize=46&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=AI%20Engineering%20%7C%20Robotics%20%7C%20Cyber%20Security&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
 ---
 
 ## About Me
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=36BCF7&center=true&vCenter=true&width=980&lines=Currently+building+AI+engineering+and+robotics+systems;Learning+advanced+AI%2C+system+architecture%2C+and+full-stack+development;Open+to+collaboration+on+real-time+cyber+and+global+data+visualization" alt="about typing animation"/>
 </p>
@@ -63,7 +62,6 @@
 - How to reach me: <a href="mailto:pabankumar98270@gmail.com">pabankumar98270@gmail.com</a>
 
 ### Projects I Am Building
-
 - AI engineering platforms
 - Cyber attack visualization globe
 - Real-time flight tracking system
@@ -71,13 +69,11 @@
 - Robotics research projects
 
 ### Fun Fact
-
 - I enjoy building futuristic systems that combine AI, robotics, and real-time global data visualization.
 
 ---
 
 ## <a id="stack"></a>Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs,html,css,tailwind,mongodb,mysql,git,github,linux,vscode,postman&perline=8" alt="skill icons"/>
 </p>
@@ -92,7 +88,6 @@
 ---
 
 ## <a id="dashboard"></a>Live Dashboard
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pabankumarsahoo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=pabankumarsahoo&theme=tokyonight&hide_border=true" alt="streak"/>
@@ -115,7 +110,6 @@
 ---
 
 ## Highlights
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pabankumarsahoo&theme=tokyonight" alt="stats card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pabankumarsahoo&theme=tokyonight" alt="profile card"/>
@@ -128,41 +122,4 @@
 ---
 
 ## <a id="animations"></a>Snake Arena
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Animation-Snake%20Grid-22c55e?style=for-the-badge" alt="snake mode"/>
-  <img src="https://img.shields.io/badge/Theme-Dark%20%2F%20Light-0ea5e9?style=for-the-badge" alt="theme mode"/>
-  <img src="https://img.shields.io/badge/Auto%20Update-12h%20Workflow-ef4444?style=for-the-badge" alt="auto update"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake contribution game" src="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/ocean.gif" alt="snake gif mode"/>
-</p>
-
----
-
-## <a id="connect"></a>Connect
-
-<p align="center">
-  <a href="https://github.com/pabankumarsahoo">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="mailto:pabankumar98270@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/paban-kumar-sahoo-4035a6371/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5D7E8,40:576CBC,70:19376D,100:050816&height=140&section=footer"/>
-</p>
