@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashmiranjanaiet&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/rashmiranjanaiet?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/rashmiranjanaiet?style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=pabankumarsahoo&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/pabankumarsahoo?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/pabankumarsahoo?style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b" alt="stars"/>
   <img src="https://img.shields.io/badge/Profile-Advanced%20Mode-8b5cf6?style=for-the-badge" alt="advanced"/>
 </p>
 
@@ -53,14 +53,14 @@
 
   </td>
     <td width="44%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmiranjanaiet&theme=tokyonight" alt="profile details"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pabankumarsahoo&theme=tokyonight" alt="profile details"/>
     </td>
   </tr>
 </table>
 
-- All of my projects are available at: <a href="https://github.com/rashmiranjanaiet">github.com/rashmiranjanaiet</a>
+- All of my projects are available at: <a href="https://github.com/pabankumarsahoo">github.com/pabankumarsahoo</a>
 - You can ask me about AI engineering, web development, real-time data systems, JavaScript, React, and system design.
-- How to reach me: <a href="mailto:rashmiranjanaiet@gmail.com">rashmiranjanaiet@gmail.com</a>
+- How to reach me: <a href="mailto:pabankumar98270@gmail.com">pabankumar98270@gmail.com</a>
 
 ### Projects I Am Building
 
@@ -94,22 +94,22 @@
 ## <a id="dashboard"></a>Live Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rashmiranjanaiet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=rashmiranjanaiet&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pabankumarsahoo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=pabankumarsahoo&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjanaiet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashmiranjanaiet&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabankumarsahoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pabankumarsahoo&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmiranjanaiet&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pabankumarsahoo&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashmiranjanaiet&theme=tokyonight" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rashmiranjanaiet&theme=tokyonight" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabankumarsahoo&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabankumarsahoo&theme=tokyonight" alt="most commit language"/>
 </p>
 
 ---
@@ -117,8 +117,8 @@
 ## Highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmiranjanaiet&theme=tokyonight" alt="stats card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmiranjanaiet&theme=tokyonight" alt="profile card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pabankumarsahoo&theme=tokyonight" alt="stats card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pabankumarsahoo&theme=tokyonight" alt="profile card"/>
 </p>
 
 <p align="center">
@@ -137,14 +137,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashmiranjanaiet/rashmiranjanaiet/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rashmiranjanaiet/rashmiranjanaiet/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake contribution game" src="https://raw.githubusercontent.com/rashmiranjanaiet/rashmiranjanaiet/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake contribution game" src="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rashmiranjanaiet/rashmiranjanaiet/output/ocean.gif" alt="snake gif mode"/>
+  <img src="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/ocean.gif" alt="snake gif mode"/>
 </p>
 
 ---
@@ -152,13 +152,13 @@
 ## <a id="connect"></a>Connect
 
 <p align="center">
-  <a href="https://github.com/rashmiranjanaiet">
+  <a href="https://github.com/pabankumarsahoo">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="mailto:rashmiranjanaiet@gmail.com">
+  <a href="mailto:pabankumar98270@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://www.linkedin.com/in/rashmiranjan-behera-566254352">
+  <a href="https://www.linkedin.com/in/paban-kumar-sahoo-4035a6371/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
