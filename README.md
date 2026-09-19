@@ -86,6 +86,14 @@ I learn by building — experimenting with technologies, solving problems, break
 
 ---
 
+<h2 align="center">📊 My 3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" 
+       alt="3D Contribution Graph"
+       width="100%">
+</p>
+
 ## 🚀 What I Build
 
 ```text
