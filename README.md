@@ -103,6 +103,17 @@ I learn by building — experimenting with technologies, solving problems, break
        width="100%">
 </p>
 
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabankumarsahoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+       alt="Paban's GitHub Stats"
+       height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabankumarsahoo&layout=compact&hide_border=true&theme=tokyonight"
+       alt="Top Languages"
+       height="180">
+</p>
+
 ## 🚀 What I Build
 
 ```text
