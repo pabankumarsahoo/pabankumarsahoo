@@ -121,6 +121,12 @@ I learn by building — experimenting with technologies, solving problems, break
        alt="GitHub Contribution Streak">
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pabankumarsahoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+       alt="GitHub Trophies">
+</p>
 ## 🚀 What I Build
 
 ```text
