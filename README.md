@@ -114,6 +114,13 @@ I learn by building — experimenting with technologies, solving problems, break
        height="180">
 </p>
 
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pabankumarsahoo&theme=tokyonight&hide_border=true"
+       alt="GitHub Contribution Streak">
+</p>
+
 ## 🚀 What I Build
 
 ```text
