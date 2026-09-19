@@ -94,6 +94,22 @@ I learn by building — experimenting with technologies, solving problems, break
        width="100%">
 </p>
 
+<h2 align="center">📊 My 3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+       alt="3D Contribution Graph"
+       width="100%">
+</p>
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pabankumarsahoo/pabankumarsahoo/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake"
+       width="100%">
+</p>
+
 ## 🚀 What I Build
 
 ```text
