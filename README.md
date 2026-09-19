@@ -37,7 +37,7 @@
 <tr>
 <td width="36%" align="center">
 
-<img src="./assets/paban-profile.jpg" width="270" alt="Paban Kumar Sahoo"/>
+<img src="./assets/paban-profile.jpeg" width="270" alt="Paban Kumar Sahoo"/>
 
 <br/><br/>
 
